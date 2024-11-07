@@ -22,6 +22,7 @@ a {
 .section-tagline{
     color: var(--color-primary);
     font-size: 1.8rem;
+    text-transform: var(--section-tagline-transform);
 }
 :root{
     --color-primary: #d73953;
@@ -43,6 +44,7 @@ a {
     --line-height-base: 1.5;
     --line-height-big: 1.8;
     --section-header-align: center;
+    --section-tagline-transform: uppercase;
 }
 h1, h2, h3, h4, h5, h6{
     font-family: var(--font-family-title);
