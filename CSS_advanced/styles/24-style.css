@@ -171,12 +171,12 @@ ul.row {
 .card-services .card-title {
     margin: 0;
 }
-.card-service a {
+.card-services a {
     display: block;
     padding: 2rem;
     background-color: var(--color-light-grey);
 }
-.card-service .card-service:hover{
+.card-services .card-services:hover{
     color: var(--color-white);
     background-color: var(--color-primary);
     text-decoration: none;
