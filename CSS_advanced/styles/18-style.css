@@ -133,7 +133,7 @@ a:active {
 
 }
 .nav:hover .nav-link:hover {
-    background-color: var(--nav-item-link-hover);
+    color: var(--nav-item-link-hover);
 }
 .footer {
     padding: var(--footer-padding);
