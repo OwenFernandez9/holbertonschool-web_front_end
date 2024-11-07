@@ -10,9 +10,9 @@ html {
 }
 a {
     color: var(--text-color);
-    font-size: var(--font-weight-bold);
 }
 .visually-hidden {
+    font-size: var(--font-weight-bold);
     display: none;
 }
 .card-category{
