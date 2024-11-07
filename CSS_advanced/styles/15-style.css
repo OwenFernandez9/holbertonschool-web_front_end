@@ -31,7 +31,7 @@ body {
     font-weight: var(--font-weight-regular);
     line-height: var(--line-height-base);
 }
-* {
+*, *::before, *::after {
     box-sizing: border-box;
 }
 html {
