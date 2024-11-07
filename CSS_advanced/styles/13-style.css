@@ -33,7 +33,7 @@ html {
     scroll-behavior: smooth;
     font-size: 62.5%;
 }
-a[href]{
+a[href] {
     text-decoration: none;
     color: inherit;
 
@@ -41,37 +41,37 @@ a[href]{
 .visually-hidden {
     display: none;
 }
-.card-category{
+.card-category {
     color: var(--color-primary);
 }
-.section-title{
+.section-title {
     font-family: var(--font-family-title);
     font-size: var(--font-size-xx-large);
     font-weight: var(--font-weight-bold);
     margin: var(--section-title-margin);
     color: var(--section-title-color);
 }
-.section-tagline{
+.section-tagline {
     color: var(--color-primary);
     text-transform: var(--section-tagline-transform);
     font-family: var(--font-family-title);
     font-weight: var(--font-weight-bold);
 
 }
-h1, h2, h3, h4, h5, h6{
+h1, h2, h3, h4, h5, h6 {
     font-family: var(--font-family-title);
     font-weight: var(--font-weight-bold);
 
 }
-.section-header{
+.section-header {
     text-align: var(--section-header-align);
 }
-a:visited{
+a:visited {
     font-style: italic;
 }
-a:hover{
+a:hover {
     text-decoration: underline;
 }
-a:active{
+a:active {
     background-color: var(--color-light-grey);
 }
