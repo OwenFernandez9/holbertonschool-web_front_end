@@ -168,7 +168,7 @@ ul.row {
     --section-title-color: var(--color-white);
     background-color: var(--color-black);
 }
-.card-service .card-title {
+.card-services .card-title {
     margin: 0;
 }
 .card-service a {
