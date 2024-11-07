@@ -33,7 +33,7 @@ html {
     scroll-behavior: smooth;
     font-size: 62.5%;
 }
-a[href] {
+a[href]:link {
     text-decoration: none;
     color: inherit;
 
