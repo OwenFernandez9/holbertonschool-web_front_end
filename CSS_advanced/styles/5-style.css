@@ -26,9 +26,9 @@ a {
     --text-color: var(--color-black);
     --font-family-base: "Helvetica Neue", Helvetica, Arial, sans-serif;
     --font-family-title: "Helvetica Neue", Helvetica, Arial, sans-serif;
-    --font-size-small: 12rem;
-    --font-size-medium: 16rem;
-    --font-size-large: 28rem;
+    --font-size-small: 1.2rem;
+    --font-size-medium: 1.6rem;
+    --font-size-large: 2.8rem;
     --font-size-x-large: 23.3rem;
     --font-sizr-xx-large: 4.8;
     
