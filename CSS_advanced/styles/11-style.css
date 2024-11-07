@@ -42,8 +42,6 @@ a {
     color: var(--color-primary);
 }
 .section-tagline{
-    color: var(--color-primary);
-    font-size: var(--font-size-large);
     text-transform: var(--section-tagline-transform);
     font-family: var(--font-family-title);
     font-weight: var(--font-weight-bold);
