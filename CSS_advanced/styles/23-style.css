@@ -179,6 +179,6 @@ ul.row {
 .footer ul {
     text-align: right;
 }
-.footer address {
+.footer-address {
     color: var(--text-color);
 }
